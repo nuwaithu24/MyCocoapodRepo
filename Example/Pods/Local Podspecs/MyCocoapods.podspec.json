@@ -1,0 +1,27 @@
+{
+  "name": "MyCocoapods",
+  "version": "0.1.0",
+  "summary": "A short description of MyCocoapods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nuwaithu24/MyCocoapods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nuwaithu24": "nuwaithu90@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/nuwaithu24/MyCocoapods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MyCocoapods/Classes/**/*",
+  "resource_bundles": {
+    "MyCocoapods": [
+      "MyCocoapods/Assets/*.storyboard"
+    ]
+  }
+}
