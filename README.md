@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# MyCocoapodRepo
-=======
 # MyCocoapods
 
 [![CI Status](https://img.shields.io/travis/nuwaithu24/MyCocoapods.svg?style=flat)](https://travis-ci.org/nuwaithu24/MyCocoapods)
@@ -30,4 +27,3 @@ nuwaithu24, nuwaithu90@gmail.com
 ## License
 
 MyCocoapods is available under the MIT license. See the LICENSE file for more info.
->>>>>>> 48bc0d0 (Initial commit)
